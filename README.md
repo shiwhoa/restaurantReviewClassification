@@ -1,5 +1,5 @@
 # restaurantReviewClassification
 Machine Learning\
-Classifying restaurant reviews as either Positive or Negative\
+Classifying text-based restaurant reviews as either Positive or Negative using NLTK\
 Uses Naive Bayes Model\
 Compared on Accuracy
